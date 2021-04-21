@@ -9,8 +9,7 @@ As the user moves through the site, they can add and substract different items t
 ### Live Demo
 
 [GitHub Pages](https://kath-ldn.github.io/shopping-cart/)
-#### NOTE ####
-Github Pages isn't playing nicely with the Browser Router in this app - so please click the page title in the top-left corner to take you to the Home page which would load on visiting the page, and then navigate using the nav as usual. Please do not click refresh or your browser back button, this will likely result in a 404 from GH pages.
+DEMO NOTE: Github Pages isn't playing nicely with the Browser Router in this app - so please click the page title in the top-left corner to take you to the Home page which would load on visiting the page, and then navigate using the nav as usual. Please do not click refresh or your browser back button, this will likely result in a 404 from GH pages.
 
 ### Built with
 
