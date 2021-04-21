@@ -80,7 +80,6 @@ li{
 }
 
 .homeContent:hover{
-    opacity: 80%;
     cursor: pointer;
 }
 
@@ -244,7 +243,6 @@ li{
 }
 
 .itemsThumb:hover{
-    opacity: 90%;
     cursor: pointer;
 }
 
@@ -259,6 +257,5 @@ li{
 }
 
 .checkout:hover{
-    opacity: 90%;
     cursor: pointer;
 }

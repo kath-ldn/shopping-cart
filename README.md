@@ -46,6 +46,7 @@ For the next version I will:
 ### Known Issues
 
 * Not responsive/suited to all devices.
+* Known ReactJS [issue with Opacity](https://github.com/facebook/react-native/issues/3183) - previously used this for hover events and have removed. Replace with other subtle effect for user interaction.
 
 ## Acknowledgements
 
