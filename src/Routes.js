@@ -1,6 +1,7 @@
 import React from "react";
 import{ BrowserRouter, Switch, Route } from "react-router-dom";
 import Home from "./Components/Home";
+import './Components/reset.css';
 import './Components/App.css';
 import Items from "./Components/Items";
 import Item from "./Components/Item";
@@ -18,7 +19,6 @@ const Routes = () => {
                 <Route exact path="/Cart" component={Checkout} />
                 <Route exact path="/Items/:id" component={Item} />
             </Switch>
-            
         </BrowserRouter>
     );
 };

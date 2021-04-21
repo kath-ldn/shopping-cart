@@ -9,53 +9,53 @@ import curology from './Imgs/curology.jpg'
 
 const ItemsData = [
     {
-        id: 'id0001',
-        name: 'CBD',
-        price: 40,
-        img: CBD
-    },
-    {
         id: 'id0002',
-        name: 'COCOOIL',
+        name: 'COCOOIL Moisturiser',
         price: 25,
         img: coconut
     },
     {
         id: 'id0003',
-        name: "I'm Fabulous",
+        name: "I'm Fabulous Bath Oil",
         price: 15,
         img: fabulous
     },
     {
         id: 'id0004',
-        name: 'Glossier',
+        name: 'Glossier Glow & Bounce',
         price: 30,
         img: glossier
     },
     {
         id: 'id0005',
-        name: 'Lush',
+        name: 'Lush Essentis',
         price: 20,
         img: lush
     },
     {
         id: 'id0006',
-        name: 'The Ordinary',
+        name: 'The Ordinary Edit',
         price: 18,
         img: ordinary
     },
     {
         id: 'id0007',
-        name: 'Candle',
+        name: 'Aromatherapy Candle of the Month',
         price: 25,
         img: candle
     },
     {
+        id: 'id0001',
+        name: 'CBD Collection',
+        price: 45,
+        img: CBD
+    },
+    {
         id: 'id0008',
-        name: 'Curology',
+        name: 'The Curology Box',
         price: 35,
         img: curology
     }
-]
+];
 
 export default ItemsData;
