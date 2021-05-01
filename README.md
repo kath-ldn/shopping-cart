@@ -9,7 +9,10 @@ As the user moves through the site, they can add and substract different items t
 ### Live Demo
 
 [GitHub Pages](https://kath-ldn.github.io/shopping-cart/)
-DEMO NOTE: Github Pages isn't playing nicely with the Browser Router in this app - so please click the page title in the top-left corner to take you to the Home page which would load on visiting the page, and then navigate using the nav as usual. Please do not click refresh or your browser back button, this will likely result in a 404 from GH pages.
+
+DEMO NOTE: Browser Router in React does not work well with Github Pages because GP does not support browser history. I need to switch it to a Hash Router.
+
+To simulate what the website would look like on a regular website - click the page title in the top-left corner. This takes you tothe Home page. You can navigate across the pages using the nav as usual. Please do not click refresh or your browser back button, this will result in a 404 from GH pages.
 
 ### Built with
 
@@ -43,6 +46,7 @@ For the next version I will:
 * Add mobile/device responsiveness (currently just Web);
 * 'Back' feature/navigation;
 * Add item descriptions.
+* Switch to Hash Router so that the Github Pages demo works
 
 ### Known Issues
 
