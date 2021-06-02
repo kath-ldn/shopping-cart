@@ -1,4 +1,4 @@
-# Shopping Cart wth ReactJS V2.0
+# Shopping Cart wth ReactJS V2.1
 
 ## About
 
@@ -10,9 +10,11 @@ As the user moves through the site, they can add and subtract different items to
 
 [GitHub Pages](https://kath-ldn.github.io/shopping-cart-ReactJS/)
 
-DEMO NOTE: Browser Router in React does not work well with Github Pages because GP does not support browser history. I need to switch it to a Hash Router.
+DEMO NOTE: Browser Router in React does not work well with Github Pages because GP does not support browser history. You can navigate across the pages using the nav as usual. Please do not click refresh or your browser back button, this will result in a 404 from GH pages.
 
-To simulate what the website would look like on a regular website - click the page title in the top-left corner. This takes you to the Home page. You can navigate across the pages using the nav as usual. Please do not click refresh or your browser back button, this will result in a 404 from GH pages.
+There was a bug that I fixed where the Home component would not show on first load - I think I have fixed this by adding an additional route with the GH pages path. If it crops up, to simulate what the website would look like on a regular website - click the page title in the top-left corner. This takes you to the Home page.
+
+I am going to experiment with switching to Hash Router.
 
 ### Built with
 
