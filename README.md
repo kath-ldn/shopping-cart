@@ -4,7 +4,7 @@
 
 This is a simple website with a shopping cart for an online store that I made using ReactJS. The purpose of this was to practice using react-router and routes, as well as hooks/ReactJS more broadly. I developed it for [The Odin Project, Full Stack Javascript course, Javascript Module (React Projects)](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/shopping-cart).
 
-As the user moves through the site, they can add and substract different items to their cart. When they are finished, they visit a checkout screen (by clicking on the cart), which displays all the items selected and their total cost.
+As the user moves through the site, they can add and subtract different items to their cart. When they are finished, they visit a checkout screen (by clicking on the cart), which displays all the items selected and their total cost.
 
 ### Live Demo
 
@@ -12,7 +12,7 @@ As the user moves through the site, they can add and substract different items t
 
 DEMO NOTE: Browser Router in React does not work well with Github Pages because GP does not support browser history. I need to switch it to a Hash Router.
 
-To simulate what the website would look like on a regular website - click the page title in the top-left corner. This takes you tothe Home page. You can navigate across the pages using the nav as usual. Please do not click refresh or your browser back button, this will result in a 404 from GH pages.
+To simulate what the website would look like on a regular website - click the page title in the top-left corner. This takes you to the Home page. You can navigate across the pages using the nav as usual. Please do not click refresh or your browser back button, this will result in a 404 from GH pages.
 
 ### Built with
 
