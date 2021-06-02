@@ -15,6 +15,7 @@ const Routes = () => {
         <Nav />
             <Switch>
                 <Route exact path="/" component={Home} />
+                <Route exact path="/shopping-cart-ReactJS" component={Home} />
                 <Route exact path="/Items" component={Items} />
                 <Route exact path="/Cart" component={Checkout} />
                 <Route exact path="/Items/:id" component={Item} />
