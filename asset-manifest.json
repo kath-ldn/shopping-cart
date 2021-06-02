@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/shopping-cart/static/css/main.278392c6.chunk.css",
-    "main.js": "/shopping-cart/static/js/main.75dbb1bf.chunk.js",
-    "main.js.map": "/shopping-cart/static/js/main.75dbb1bf.chunk.js.map",
-    "runtime-main.js": "/shopping-cart/static/js/runtime-main.b050c881.js",
-    "runtime-main.js.map": "/shopping-cart/static/js/runtime-main.b050c881.js.map",
-    "static/js/2.b333beab.chunk.js": "/shopping-cart/static/js/2.b333beab.chunk.js",
-    "static/js/2.b333beab.chunk.js.map": "/shopping-cart/static/js/2.b333beab.chunk.js.map",
-    "index.html": "/shopping-cart/index.html",
-    "static/css/main.278392c6.chunk.css.map": "/shopping-cart/static/css/main.278392c6.chunk.css.map",
-    "static/js/2.b333beab.chunk.js.LICENSE.txt": "/shopping-cart/static/js/2.b333beab.chunk.js.LICENSE.txt",
-    "static/media/CBD.34d62986.jpg": "/shopping-cart/static/media/CBD.34d62986.jpg",
-    "static/media/boxes.653b78d1.jpg": "/shopping-cart/static/media/boxes.653b78d1.jpg",
-    "static/media/candle.2e531655.jpg": "/shopping-cart/static/media/candle.2e531655.jpg",
-    "static/media/cart.cccaf49e.png": "/shopping-cart/static/media/cart.cccaf49e.png",
-    "static/media/coconut.4d4b9646.jpg": "/shopping-cart/static/media/coconut.4d4b9646.jpg",
-    "static/media/curology.9ec10023.jpg": "/shopping-cart/static/media/curology.9ec10023.jpg",
-    "static/media/fabulous.3422ba87.jpg": "/shopping-cart/static/media/fabulous.3422ba87.jpg",
-    "static/media/glossier.852582e4.jpg": "/shopping-cart/static/media/glossier.852582e4.jpg",
-    "static/media/lush.1ac39e4c.jpg": "/shopping-cart/static/media/lush.1ac39e4c.jpg",
-    "static/media/ordinary.b59dbf9b.jpg": "/shopping-cart/static/media/ordinary.b59dbf9b.jpg"
+    "main.css": "/shopping-cart-ReactJS/static/css/main.278392c6.chunk.css",
+    "main.js": "/shopping-cart-ReactJS/static/js/main.5b19ce85.chunk.js",
+    "main.js.map": "/shopping-cart-ReactJS/static/js/main.5b19ce85.chunk.js.map",
+    "runtime-main.js": "/shopping-cart-ReactJS/static/js/runtime-main.5a90249e.js",
+    "runtime-main.js.map": "/shopping-cart-ReactJS/static/js/runtime-main.5a90249e.js.map",
+    "static/js/2.b333beab.chunk.js": "/shopping-cart-ReactJS/static/js/2.b333beab.chunk.js",
+    "static/js/2.b333beab.chunk.js.map": "/shopping-cart-ReactJS/static/js/2.b333beab.chunk.js.map",
+    "index.html": "/shopping-cart-ReactJS/index.html",
+    "static/css/main.278392c6.chunk.css.map": "/shopping-cart-ReactJS/static/css/main.278392c6.chunk.css.map",
+    "static/js/2.b333beab.chunk.js.LICENSE.txt": "/shopping-cart-ReactJS/static/js/2.b333beab.chunk.js.LICENSE.txt",
+    "static/media/CBD.34d62986.jpg": "/shopping-cart-ReactJS/static/media/CBD.34d62986.jpg",
+    "static/media/boxes.653b78d1.jpg": "/shopping-cart-ReactJS/static/media/boxes.653b78d1.jpg",
+    "static/media/candle.2e531655.jpg": "/shopping-cart-ReactJS/static/media/candle.2e531655.jpg",
+    "static/media/cart.cccaf49e.png": "/shopping-cart-ReactJS/static/media/cart.cccaf49e.png",
+    "static/media/coconut.4d4b9646.jpg": "/shopping-cart-ReactJS/static/media/coconut.4d4b9646.jpg",
+    "static/media/curology.9ec10023.jpg": "/shopping-cart-ReactJS/static/media/curology.9ec10023.jpg",
+    "static/media/fabulous.3422ba87.jpg": "/shopping-cart-ReactJS/static/media/fabulous.3422ba87.jpg",
+    "static/media/glossier.852582e4.jpg": "/shopping-cart-ReactJS/static/media/glossier.852582e4.jpg",
+    "static/media/lush.1ac39e4c.jpg": "/shopping-cart-ReactJS/static/media/lush.1ac39e4c.jpg",
+    "static/media/ordinary.b59dbf9b.jpg": "/shopping-cart-ReactJS/static/media/ordinary.b59dbf9b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b050c881.js",
+    "static/js/runtime-main.5a90249e.js",
     "static/js/2.b333beab.chunk.js",
     "static/css/main.278392c6.chunk.css",
-    "static/js/main.75dbb1bf.chunk.js"
+    "static/js/main.5b19ce85.chunk.js"
   ]
 }
