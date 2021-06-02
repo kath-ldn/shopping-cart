@@ -8,7 +8,7 @@ As the user moves through the site, they can add and subtract different items to
 
 ### Live Demo
 
-[GitHub Pages](https://kath-ldn.github.io/shopping-cart/)
+[GitHub Pages](https://kath-ldn.github.io/shopping-cart-ReactJS/)
 
 DEMO NOTE: Browser Router in React does not work well with Github Pages because GP does not support browser history. I need to switch it to a Hash Router.
 
